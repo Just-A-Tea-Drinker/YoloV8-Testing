@@ -1,0 +1,8 @@
+path: D:\Other apps\Python\cancer_dataset
+train: images/train
+val: images/train
+
+names:
+  0: malignency
+  1: benign
+  2: abnormalities
